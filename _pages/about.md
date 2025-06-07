@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/6e599446-9edd-4130-9df0-34fed6574bc5)---
 permalink: /
 title:  "产品信息"
 author_profile: true
@@ -54,4 +54,4 @@ redirect_from:
 
 ![荔枝林](./10.png "产品信息")
 
-![荔枝林](./11.mp4 "产品信息")
+<video src ="./11.mp4"></.video>
